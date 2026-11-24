@@ -1,0 +1,1 @@
+Para ejecutar desde codigo_base/RA: python -m http.server 8000 ; abrir /vista3d.html y /index.html. En Codespaces publique puerto 8000 HTTPS y autorice cámara. Código deliberadamente INCOMPLETO para la evaluación.
